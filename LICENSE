@@ -1,0 +1,50 @@
+MIT License
+
+Copyright (c) 2026 ItzRandom23 
+
+Project: GPA-Calculator
+Repository: https://github.com/ItzRandom23/GPA-Calculator
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+
+--------------------------------------------------------------------------------
+EXCEPTION: UNIVERSITY NAME AND EMBLEM
+--------------------------------------------------------------------------------
+
+The MIT License above applies to the source code and other original content of
+this project (index.html, style.css, script.js and this project's
+documentation).
+
+It does NOT apply to the following, which are the property of Guru Gobind Singh
+Indraprastha University (GGSIPU):
+
+  * assets/ggsipu-emblem-mark.png — the university emblem, cropped and resized
+    from the logo published on the official university website (ipu.ac.in).
+  * The university name "Guru Gobind Singh Indraprastha University", "GGSIPU",
+    and "IPU", together with the emblem, trade dress and associated marks.
+
+These are used here solely to identify the university whose grading scale this
+calculator applies. They are the trademarks of their owner and are excluded
+from this licence; no rights to them are granted, and none may be inferred.
+
+If you redistribute, deploy or fork this project, you are responsible for
+ensuring your use of the emblem is permitted. If in doubt, replace
+assets/ggsipu-emblem-mark.png with your own artwork. This project is unofficial
+and is not affiliated with, sponsored by or endorsed by GGSIPU.
